@@ -11,7 +11,7 @@
 [![Arsenal-2016-US](https://www.toolswatch.org/badges/arsenal/2016.svg)](http://www.toolswatch.org/2016/06/the-black-hat-arsenal-usa-2016-remarkable-line-up/) 
 
 [![DEFCON 25 ReconVillage](https://img.shields.io/badge/DEFCON%2025-Recon%20Village-red.svg)](http://reconvillage.org/) [![DEFCON 24 Demolabs](https://img.shields.io/badge/DEFCON%2024-Demo%20Labs-red.svg)](https://www.defcon.org/html/defcon-24/dc-24-demolabs.html)
-
+z
 [![Join Datasploit Slack](https://img.shields.io/badge/slack-open-e01563.svg)](http://datasploit.slack.com "Join our Slack community")
 
 [![Follow Datasploit on Twitter](https://img.shields.io/twitter/follow/datasploit.svg?style=social&label=Follow%20%40datasploit)](https://twitter.com/intent/user?screen_name=datasploit "Follow Datasploit on Twitter")
